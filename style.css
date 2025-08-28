@@ -14,7 +14,7 @@ h1{
 header {
     background-color: rgb(0, 79, 226);
     color: white;
-    padding: 20px 20px;
+    padding: 20x 20px;
 }
 img{
     width: 300px;
@@ -22,8 +22,6 @@ img{
 }
 header .container{
     display: flex;
-    background-image: url(images-removebg-preview\ \(1\).png);
-    background-repeat: no-repeat;
    justify-content:space-around ;
     align-items: stretch;
     padding: 15px;
@@ -75,4 +73,3 @@ footer{
     padding: 10px 0;
     margin-top: 130px;
 }
-
