@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     height: 100%;
-    background-color: #2133d4;
+    background: linear-gradient(#2b00ec,#371bb7);
     display: flex;
     justify-content: start;
     align-items: center;
@@ -19,7 +19,7 @@ td{
     border-radius: 5px;
 }
 table{
-    background-color: #1d4db6d7;
+    background: linear-gradient(rgb(118, 100, 198),#0000ff);
     padding: 10px 3px ;
 
 }
