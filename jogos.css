@@ -1,0 +1,33 @@
+body, html{
+    margin:0;
+    padding:0;
+    height: 100%;
+    background: linear-gradient(#2b00ec,#371bb7);
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+td{
+    font-size:12px;
+    border:1px solid #1b0ed6;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+table{
+    background: linear-gradient(rgb(118, 100, 198),#0000ff);
+    padding: 30px 10px ;
+
+}
+th {
+    font-size: 20px;
+    font-family: 'HarryP';
+}
+img{
+    width: 15px;
+    height: 15px;
+}
